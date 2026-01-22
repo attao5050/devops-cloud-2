@@ -1,0 +1,3 @@
+
+Hi, I am here in bash.txt file.
+Hi I am new here 
